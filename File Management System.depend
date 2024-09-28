@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1719948880 source:c:\users\blessings\documents\c programming\file management system\main.c
+	<stdio.h>
+	<malloc.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
+1720773159 source:c:\users\user\documents\c programming\file management system\main.c
+	<stdio.h>
+	<malloc.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
+1722604256 source:c:\users\user\documents\c programming\file management system1 - copy\main.c
+	<stdio.h>
+	<malloc.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1722590402 source:c:\users\user\documents\c programming\file management system1 - final\main.c
+	<stdio.h>
+	<malloc.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
